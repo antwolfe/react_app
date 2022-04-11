@@ -4,9 +4,7 @@ import './App.css';
 import SearchIcon from './search.svg';
 import MovieCard from './MovieCard';
 
-// eef856d 
-
-const API_URL = 'http://www.omdbapi.com/?apikey=eef856d';
+const API_URL = 'http://www.omdbapi.com/?APIKEY';
 
 const movie1 = {
   "Title": "Batman Forever",
